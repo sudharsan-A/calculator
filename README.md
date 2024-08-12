@@ -1,6 +1,5 @@
 # calculator
 
-# Calculator
 
 ## About Project
 
