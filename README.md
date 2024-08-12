@@ -1,5 +1,5 @@
-# calculator
 
+# Calculator
 
 ## About Project
 
